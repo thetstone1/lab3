@@ -1,0 +1,34 @@
+div.gallery {
+    margin: 20px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 100%;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: Maroon;
+    font-weight: 900;
+}
+ 
+h1 {color: Maroon;
+text-align: center;
+border-style: ridge;}
+
+h2 {color: Green;
+text-align: center;
+border-style: dotted;
+font-weight: 900;}
+
+a { font-weight: bold;}
+
